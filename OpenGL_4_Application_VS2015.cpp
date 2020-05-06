@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  OpenGL Shadows
-//
-//  Created by CGIS on 05/12/16.
-//  Copyright � 2016 CGIS. All rights reserved.
-//
-
 #define GLEW_STATIC
 
 #include <iostream>
